@@ -1,0 +1,4 @@
+__pycache__
+.clj-kondo/
+.idea/
+.DS_Store
